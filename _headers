@@ -1,0 +1,18 @@
+[38;2;131;148;150m   1[0m [38;2;248;248;242mhttps://:project.pages.dev/*[0m
+[38;2;131;148;150m   2[0m [38;2;248;248;242m  X-Robots-Tag: noindex, nofollow[0m
+[38;2;131;148;150m   3[0m 
+[38;2;131;148;150m   4[0m [38;2;248;248;242m/admin/*[0m
+[38;2;131;148;150m   5[0m [38;2;248;248;242m  Cache-Control: private, no-store[0m
+[38;2;131;148;150m   6[0m [38;2;248;248;242m/gateway/*[0m
+[38;2;131;148;150m   7[0m [38;2;248;248;242m  Cache-Control: private, no-store[0m
+[38;2;131;148;150m   8[0m 
+[38;2;131;148;150m   9[0m [38;2;248;248;242m/assets/*[0m
+[38;2;131;148;150m  10[0m [38;2;248;248;242m  Cache-Control: public, max-age=31536000, immutable[0m
+[38;2;131;148;150m  11[0m 
+[38;2;131;148;150m  12[0m [38;2;248;248;242m/*[0m
+[38;2;131;148;150m  13[0m [38;2;248;248;242m  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload[0m
+[38;2;131;148;150m  14[0m [38;2;248;248;242m  X-Frame-Options: DENY[0m
+[38;2;131;148;150m  15[0m [38;2;248;248;242m  X-Content-Type-Options: nosniff[0m
+[38;2;131;148;150m  16[0m [38;2;248;248;242m  Referrer-Policy: no-referrer[0m
+[38;2;131;148;150m  17[0m [38;2;248;248;242m  Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), document-domain=()[0m
+[38;2;131;148;150m  18[0m [38;2;248;248;242m  Content-Security-Policy: default-src 'self'; object-src 'none'; base-uri 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; upgrade-insecure-requests;[0m
