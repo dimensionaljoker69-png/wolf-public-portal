@@ -1,0 +1,7 @@
+[38;2;131;148;150m   1[0m [38;2;248;248;242mname = "wolf-gateway-worker"[0m
+[38;2;131;148;150m   2[0m [38;2;248;248;242mmain = "index.js"[0m
+[38;2;131;148;150m   3[0m [38;2;248;248;242mcompatibility_date = "2026-10-26"[0m
+[38;2;131;148;150m   4[0m 
+[38;2;131;148;150m   5[0m [38;2;248;248;242mroutes = [[0m
+[38;2;131;148;150m   6[0m [38;2;248;248;242m  { pattern = "warriorsoflightwolfbeastmode.com/*", zone_name = "warriorsoflightwolfbeastmode.com" }[0m
+[38;2;131;148;150m   7[0m [38;2;248;248;242m][0m
